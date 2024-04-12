@@ -4,7 +4,7 @@ body{
    
 }
 .principal{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     margin: 10px;
     background: url(../Assent/Animation/ft-principal_animation.gif)  no-repeat center fixed; 
@@ -34,7 +34,7 @@ body{
 header{
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 100vw;
     display: flex;
     flex-direction: row;
     border: 1px solid  black;
